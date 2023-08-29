@@ -1,0 +1,19 @@
+{
+  "name": "hey-npm-package",
+  "version": "1.0.0",
+  "description": "Hey NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Shivanik97/hey-npm-package.git)"
+  },
+  "keywords": [
+    "NPM",
+    "tutorial"
+  ],
+  "author": "Shivani K",
+  "license": "ISC"
+}
